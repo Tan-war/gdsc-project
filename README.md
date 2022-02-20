@@ -1,0 +1,3 @@
+# gdsc-project
+I made a website exclusively for electronic items. I took inspiration from different well-known websites such as Amazon and Flipkart. I’ve used the navbar for my header and footer. And also included a logo of my company, search bar, search button, and login button on my header.
+After that is a picture that gives a brief idea of what my website is all about, that is my website contains all the electronic gadgets one would like to buy. After that is a section which contains all the products currently available and if there are any possible discounts available. And the website ends with a footer. 
